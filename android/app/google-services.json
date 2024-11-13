@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "506336959167",
+    "project_id": "demoproject-8f7ca",
+    "storage_bucket": "demoproject-8f7ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506336959167:android:3a935888d06eb5b2e9040a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLwfhqhv3PXTfDc00vyTHBvnGzySrHGiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506336959167:android:be2c0b12cd8e83f8e9040a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_weather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLwfhqhv3PXTfDc00vyTHBvnGzySrHGiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
